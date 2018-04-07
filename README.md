@@ -64,7 +64,7 @@
 
 **18. [SQLite调试教程](https://github.com/phenomLi/myBlog/issues/18)**
 
-
+**19. [记一个小技巧：一个Activity调用另一个Activity中的非静态方法](https://github.com/phenomLi/myBlog/issues/19)**
 
 
 
