@@ -89,6 +89,6 @@
 
 **27. [N体受力问题（二）：计算物体作用力](https://github.com/phenomLi/myBlog/issues/27)**
 
-**27. [GJK碰撞检测算法的另一种实现](https://github.com/phenomLi/myBlog/issues/28)**
+**28. [GJK碰撞检测算法的另一种实现](https://github.com/phenomLi/myBlog/issues/28)**
 
 
