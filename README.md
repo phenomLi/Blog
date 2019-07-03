@@ -91,4 +91,6 @@
 
 **28. [GJK碰撞检测算法的另一种实现](https://github.com/phenomLi/myBlog/issues/28)**
 
+**29. [一种紧凑树形布局算法的实现](https://github.com/phenomLi/myBlog/issues/29)**
+
 
