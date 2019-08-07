@@ -101,3 +101,5 @@
 **31. [更精确的模拟：verlet积分详解](https://github.com/phenomLi/myBlog/issues/31)**
 
 **32. [Timestepping](https://github.com/phenomLi/myBlog/issues/32)**
+
+**33. [形碰撞检测（六）：分离轴算法的优化](https://github.com/phenomLi/myBlog/issues/33)**
