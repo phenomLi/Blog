@@ -108,3 +108,5 @@
 
 ### 2019-08
 **34. [碰撞求解（一）：使用向量](https://github.com/phenomLi/myBlog/issues/34)**
+
+**35. [碰撞求解（二）：使用冲量](https://github.com/phenomLi/myBlog/issues/35)**
