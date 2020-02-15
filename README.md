@@ -115,3 +115,8 @@
 
 ### 2019-11
 **36. [二叉树线性差异识别算法](https://github.com/phenomLi/myBlog/issues/36)**
+
+<br/>
+
+### 2020-1
+**37. [一些思考：项目的实现到重构](https://github.com/phenomLi/myBlog/issues/37)**
