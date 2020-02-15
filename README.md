@@ -120,3 +120,8 @@
 
 ### 2020-1
 **37. [一些思考：项目的实现到重构](https://github.com/phenomLi/myBlog/issues/37)**
+
+<br/>
+
+### 2020-2
+**37. [Typescript踩坑两则](https://github.com/phenomLi/myBlog/issues/38)**
