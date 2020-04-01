@@ -124,11 +124,17 @@
 <br/>
 
 ### 2020-2
-**37. [Typescript踩坑两则](https://github.com/phenomLi/myBlog/issues/38)**
+**38. [Typescript踩坑两则](https://github.com/phenomLi/myBlog/issues/38)**
 
 <br/>
 
 ### 2020-3
-**37. [StructV教程（一）：实现二叉树可视化](https://github.com/phenomLi/myBlog/issues/39)**
+**39. [StructV教程（一）：实现二叉树可视化](https://github.com/phenomLi/myBlog/issues/39)**
+
+<br/>
+
+### 2020-4
+**40. [StructV教程（二）：实现哈希无向图可视化](https://github.com/phenomLi/myBlog/issues/40)**
+
 
 
