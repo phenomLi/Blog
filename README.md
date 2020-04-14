@@ -118,22 +118,22 @@
 
 <br/>
 
-### 2020-1
+### 2020-01
 **37. [一些思考：项目的实现到重构](https://github.com/phenomLi/myBlog/issues/37)**
 
 <br/>
 
-### 2020-2
+### 2020-02
 **38. [Typescript踩坑两则](https://github.com/phenomLi/myBlog/issues/38)**
 
 <br/>
 
-### 2020-3
+### 2020-03
 **39. [StructV教程（一）：实现二叉树可视化](https://github.com/phenomLi/myBlog/issues/39)**
 
 <br/>
 
-### 2020-4
+### 2020-04
 **40. [StructV教程（二）：实现哈希无向图可视化](https://github.com/phenomLi/myBlog/issues/40)**
 
 **41. [碰撞点求解（一）：最近内部顶点法](https://github.com/phenomLi/myBlog/issues/41)**
