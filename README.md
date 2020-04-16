@@ -2,7 +2,7 @@
 
 <br/>
 
-### 2017-9
+### 2017-09
 
 **1. [原来github还能这样玩](https://github.com/phenomLi/myBlog/issues/1)**
 
@@ -70,71 +70,71 @@
 
 ### 2019-05
 
-**20. [多边形碰撞检测（一）：前言](https://github.com/phenomLi/myBlog/issues/20)**
+**20. [多边形碰撞检测（二）：Sweep and Prune算法](https://github.com/phenomLi/myBlog/issues/21)**
 
-**21. [多边形碰撞检测（二）：Sweep and Prune算法](https://github.com/phenomLi/myBlog/issues/21)**
+**21. [多边形碰撞检测（三）：AABB包围盒检测](https://github.com/phenomLi/myBlog/issues/22)**
 
-**22. [多边形碰撞检测（三）：AABB包围盒检测](https://github.com/phenomLi/myBlog/issues/22)**
+**22. [多边形碰撞检测（四）：分离轴算法](https://github.com/phenomLi/myBlog/issues/23)**
 
-**23. [多边形碰撞检测（四）：分离轴算法](https://github.com/phenomLi/myBlog/issues/23)**
-
-**24. [React列表diff原理](https://github.com/phenomLi/myBlog/issues/24)**
+**23. [React列表diff原理](https://github.com/phenomLi/myBlog/issues/24)**
 
 <br/>
 
 ### 2019-06
-**25. [N体受力问题（一）：四叉树](https://github.com/phenomLi/myBlog/issues/25)**
+**24. [N体受力问题（一）：四叉树](https://github.com/phenomLi/myBlog/issues/25)**
 
-**26. [多边形碰撞检测（五）：凹多边形判别与分割](https://github.com/phenomLi/myBlog/issues/26)**
+**25. [多边形碰撞检测（五）：凹多边形判别与分割](https://github.com/phenomLi/myBlog/issues/26)**
 
-**27. [N体受力问题（二）：计算物体作用力](https://github.com/phenomLi/myBlog/issues/27)**
+**26. [N体受力问题（二）：计算物体作用力](https://github.com/phenomLi/myBlog/issues/27)**
 
-**28. [GJK碰撞检测算法的另一种实现](https://github.com/phenomLi/myBlog/issues/28)**
+**27. [GJK碰撞检测算法的另一种实现](https://github.com/phenomLi/myBlog/issues/28)**
 
-**29. [一种紧凑树形布局算法的实现](https://github.com/phenomLi/myBlog/issues/29)**
+**28. [一种紧凑树形布局算法的实现](https://github.com/phenomLi/myBlog/issues/29)**
 
 <br/>
 
 ### 2019-07
-**30. [多边形裁剪：Sutherland Hodgman算法](https://github.com/phenomLi/myBlog/issues/30)**
+**29. [多边形裁剪：Sutherland Hodgman算法](https://github.com/phenomLi/myBlog/issues/30)**
 
-**31. [更精确的模拟：verlet积分详解](https://github.com/phenomLi/myBlog/issues/31)**
+**30. [更精确的模拟：verlet积分详解](https://github.com/phenomLi/myBlog/issues/31)**
 
-**32. [Timestepping](https://github.com/phenomLi/myBlog/issues/32)**
+**31. [Timestepping](https://github.com/phenomLi/myBlog/issues/32)**
 
-**33. [形碰撞检测（六）：分离轴算法的优化](https://github.com/phenomLi/myBlog/issues/33)**
+**32. [形碰撞检测（六）：分离轴算法的优化](https://github.com/phenomLi/myBlog/issues/33)**
 
 <br/>
 
 ### 2019-08
-**34. [碰撞求解（一）：使用向量](https://github.com/phenomLi/myBlog/issues/34)**
+**33. [碰撞求解（一）：使用向量](https://github.com/phenomLi/myBlog/issues/34)**
 
-**35. [碰撞求解（二）：使用冲量](https://github.com/phenomLi/myBlog/issues/35)**
+**34. [碰撞求解（二）：使用冲量](https://github.com/phenomLi/myBlog/issues/35)**
 
 <br/>
 
 ### 2019-11
-**36. [二叉树线性差异识别算法](https://github.com/phenomLi/myBlog/issues/36)**
+**35. [二叉树线性差异识别算法](https://github.com/phenomLi/myBlog/issues/36)**
 
 <br/>
 
-### 2020-1
-**37. [一些思考：项目的实现到重构](https://github.com/phenomLi/myBlog/issues/37)**
+### 2020-01
+**36. [一些思考：项目的实现到重构](https://github.com/phenomLi/myBlog/issues/37)**
 
 <br/>
 
-### 2020-2
-**38. [Typescript踩坑两则](https://github.com/phenomLi/myBlog/issues/38)**
+### 2020-02
+**37. [Typescript踩坑两则](https://github.com/phenomLi/myBlog/issues/38)**
 
 <br/>
 
-### 2020-3
-**39. [StructV教程（一）：实现二叉树可视化](https://github.com/phenomLi/myBlog/issues/39)**
+### 2020-03
+**38. [StructV教程（一）：实现二叉树可视化](https://github.com/phenomLi/myBlog/issues/39)**
 
 <br/>
 
-### 2020-4
-**40. [StructV教程（二）：实现哈希无向图可视化](https://github.com/phenomLi/myBlog/issues/40)**
+### 2020-04
+**39. [StructV教程（二）：实现哈希无向图可视化](https://github.com/phenomLi/myBlog/issues/40)**
+
+**40. [碰撞点求解（一）：最近内部顶点法](https://github.com/phenomLi/myBlog/issues/41)**
 
 
 
