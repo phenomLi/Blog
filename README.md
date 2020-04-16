@@ -70,11 +70,11 @@
 
 ### 2019-05
 
-**20. [多边形碰撞检测（二）：Sweep and Prune算法](https://github.com/phenomLi/myBlog/issues/21)**
+**20. [AABB - 轴对齐包围盒](https://github.com/phenomLi/myBlog/issues/21)**
 
-**21. [多边形碰撞检测（三）：AABB包围盒检测](https://github.com/phenomLi/myBlog/issues/22)**
+**21. [粗检测阶段（一）：Sweep and Prune 算法](https://github.com/phenomLi/myBlog/issues/22)**
 
-**22. [多边形碰撞检测（四）：分离轴算法](https://github.com/phenomLi/myBlog/issues/23)**
+**22. [SAT 分离轴算法](https://github.com/phenomLi/myBlog/issues/23)**
 
 **23. [React列表diff原理](https://github.com/phenomLi/myBlog/issues/24)**
 
@@ -83,7 +83,7 @@
 ### 2019-06
 **24. [N体受力问题（一）：四叉树](https://github.com/phenomLi/myBlog/issues/25)**
 
-**25. [多边形碰撞检测（五）：凹多边形判别与分割](https://github.com/phenomLi/myBlog/issues/26)**
+**25. [凹多边形判别与分割](https://github.com/phenomLi/myBlog/issues/26)**
 
 **26. [N体受力问题（二）：计算物体作用力](https://github.com/phenomLi/myBlog/issues/27)**
 
@@ -100,7 +100,7 @@
 
 **31. [Timestepping](https://github.com/phenomLi/myBlog/issues/32)**
 
-**32. [形碰撞检测（六）：分离轴算法的优化](https://github.com/phenomLi/myBlog/issues/33)**
+**32. [利用多边形切割进行分离轴算法优化](https://github.com/phenomLi/myBlog/issues/33)**
 
 <br/>
 
