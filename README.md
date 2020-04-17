@@ -136,5 +136,7 @@
 
 **40. [碰撞点求解（一）：最近内部顶点法](https://github.com/phenomLi/myBlog/issues/41)**
 
+**41. [碰撞点求解（二）：V-clip 算法](https://github.com/phenomLi/myBlog/issues/42)**
+
 
 
