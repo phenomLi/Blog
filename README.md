@@ -138,5 +138,7 @@
 
 **41. [碰撞点求解（二）：V-clip 算法](https://github.com/phenomLi/myBlog/issues/42)**
 
+<br/>
 
-
+### 2020-06
+**42. [欧拉方法详解](https://segmentfault.com/a/1190000023056557)**
