@@ -141,12 +141,12 @@
 <br/>
 
 ### 2020-06
-**42. [欧拉方法详解](https://segmentfault.com/a/1190000023056557)**
+**42. [数组积分：欧拉方法详解](https://www.yuque.com/phenom/apaq0q/ffgbwo)**
 
 <br/>
 
 ### 2020-08
-**43. [利用包围盒的交集筛选分离轴](https://segmentfault.com/a/1190000023746558)**
+**43. [利用包围盒的交集筛选分离轴](https://www.yuque.com/phenom/apaq0q/ww2k5d)**
 
 <br/>
 
