@@ -1,11 +1,5 @@
 # Phenom🐤写字的地方📝📝
 
-
-### 2022-10
-**[为什么WebGL比Canvas 2d更快？](https://www.yuque.com/phenom/apaq0q/wro6qg)**
-
-<br/>
-
 ### 2022-10
 **[为什么WebGL比Canvas 2d更快？](https://www.yuque.com/phenom/apaq0q/wro6qg)**
 
